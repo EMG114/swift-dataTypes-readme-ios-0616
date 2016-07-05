@@ -16,3 +16,6 @@ let numberOfCountriesInAfrica = 54
 
 let numberOfMoonsOfSaturn = 62
 print("There are \(numberOfMoonsOfSaturn) moons orbiting \(sixthPlanet)")
+
+let myAge = 25
+print ("I am \(myAge)")
